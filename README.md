@@ -10,14 +10,14 @@ This project consists of two main parts:
 
 ## Prerequisites
 
-- [Go](https://go.dev/doc/install) (version 1.18 or higher recommended)
+- Go (version 1.18 or higher recommended)
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/DedKymus228/broadcast-server.git
 cd broadcast-server
 ```
 
