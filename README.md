@@ -74,3 +74,9 @@ Once connected, simply type your message and press `Enter` to broadcast it to al
 - `internal/client/`: Logic for the WebSocket client and the Hub (which manages connections).
 - `internal/server/`: The HTTP/WebSocket server logic.
 - `main.go`: Application entry point.
+
+
+> This project is a solution to the [Broadcast Server](https://roadmap.sh/projects/broadcast-server) challenge on roadmap.sh.
+
+
+
